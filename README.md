@@ -2,15 +2,117 @@
 
 <!--
 **MananCoder29/MananCoder29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=141619&center=true&vCenter=true&width=500&lines=I'm+Manan+Jignesh+Shah" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center" style="font-weight:bold">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=250&lines=👨‍💻+Software+Engineer" alt="Software Engineer" /> 
+  </a>
+
+  <a href="https://git.io/typing-svg" style="text-decoration: none; font-weight: bold;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=250&lines=🤖+AI+%26+Robot+Enthusiast" alt="AI & Robot Enthusiast" />
+  </a>
+  
+  <a style="text-decoration: none; font-weight: bold;" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=200&lines=☁️+Cloud+Engineer" alt="Cloud Engineer" />
+  </a>
+  
+  <a style="text-decoration: none; font-weight: bold;" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=200&lines=📊+Data+Scientist" alt="Data Scientist" />
+  </a>
+</p>
+
+## About Me
+
+I'm an Information Technology graduate student at the University of Stuttgart, specializing in Artificial Intelligence. With professional experience at PwC and current roles in cloud engineering and research, I combine technical expertise with a passion for solving complex problems through innovative solutions.
+
+## 🔭 Current Focus
+
+- Master's in Information Technology with focus on AI at University of Stuttgart
+- Working Student in Cloud Engineering & Data Science at scitis.io GmbH
+- Working on my startup 'HearUs' - an innovative sign language translation application bridging communication gaps between hearing-impaired and hearing communities in education
+
+## 💼 Experience
+
+- **scitis.io GmbH** - Cloud Engineering & Data Science
+- **Perceptual User Interfaces Department** - Student Research Assistant
+- **PricewaterhouseCoopers (PwC)** - Associate Software Engineer
+
+## 🛠️ Technical Skills
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MEAN Stack](https://img.shields.io/badge/-MEAN%20Stack-00B388?style=flat-square&logo=mongodb&logoColor=white)
+![C](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### AI & Data Science
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-0078D7?style=flat-square&logo=ai&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-38B2AC?style=flat-square&logo=datascience&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-9cf?style=flat-square&logo=python&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4479A1?style=flat-square&logo=matplotlib&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+### Tools & Methodologies
+![Agile](https://img.shields.io/badge/-Agile-47A248?style=flat-square&logo=agile&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+
+## 🎓 Education
+
+- **University of Stuttgart** - M.Sc. in Information Technology (Focus: AI)
+- **Visvesvaraya Technological University** - B.E. in Electronics & Communication Engineering
+
+## 🏆 Certifications
+
+- AWS Certified Cloud Practitioner
+- AWS Solutions Architect
+- Microsoft Certified Azure Fundamentals
+- IBM Data Science Professional
+- Google Generative AI Fundamentals
+- Enso xAI L1.2
+
+## 🏅 Achievements
+
+- LinkedIn Top Community Voice for <B>Data Science, Cloud Computing, AI, ML, and more</B>
+- <B>Hackathon Winner</B>: "Automation for Good" - Festo
+- <B>SoftDCar Hackathon 2.0 Winner</B>
+- PwC Innovation of Month: Client Experience App
+- PwC Real Time Recognition Award
+
+## 📊 Featured Projects
+
+### Learner Model in Intelligent Tutoring Systems
+Developed a recommendation module based on M-Elo Model for personalized learning paths.
+
+### Mensa Visuals: Simple Insight, Big Impact
+Data analysis and visualization project using Python, Matplotlib, and interactive visualizations.
+
+### Intelligent Building Operations
+Built a modular dashboard for building statistics with energy savings calculations and AI integration.
+
+### COVID-19 Data Analysis
+Data cleansing, feature engineering, and visualization using Python libraries.
+
+## 📫 How to reach me
+
+- **Email**: immananshah@gmail.com
+- **LinkedIn**: [manan-j-shah](https://www.linkedin.com/in/manan-j-shah/)
+- **Location**: Stuttgart, Germany
+
+---
+
+*"Turning data into insights and problems into solutions."*
