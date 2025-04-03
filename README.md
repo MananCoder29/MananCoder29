@@ -50,6 +50,9 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MEAN Stack](https://img.shields.io/badge/-MEAN%20Stack-00B388?style=flat-square&logo=mongodb&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 ### AI & Data Science
@@ -62,8 +65,8 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ### Tools & Methodologies
