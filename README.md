@@ -19,7 +19,7 @@
   </a>
   
   <a style="text-decoration: none; font-weight: bold;" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=200&lines=☁️+Cloud+Engineer" alt="Cloud Architect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=200&lines=☁️+Cloud+Architect" alt="Cloud Architect" />
   </a>
   
   <a style="text-decoration: none; font-weight: bold;" href="https://git.io/typing-svg">
