@@ -19,7 +19,7 @@
   </a>
   
   <a style="text-decoration: none; font-weight: bold;" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=200&lines=☁️+Cloud+Engineer" alt="Cloud Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=200&lines=☁️+Cloud+Engineer" alt="Cloud Architect" />
   </a>
   
   <a style="text-decoration: none; font-weight: bold;" href="https://git.io/typing-svg">
@@ -103,6 +103,9 @@ Developed a recommendation module based on M-Elo Model for personalized learning
 
 ### Mensa Visuals: Simple Insight, Big Impact
 Data analysis and visualization project using Python, Matplotlib, and interactive visualizations.
+
+### Detailed Analysis & Proposal for a feasible Cloud-Native Architecture for E-Commerce
+Developed a cloud-native architecture for a new online retail business, focusing on a hybrid approach to address the needs of the evolving e-commerce market.
 
 ### Intelligent Building Operations
 Built a modular dashboard for building statistics with energy savings calculations and AI integration.
