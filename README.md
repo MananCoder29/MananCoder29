@@ -27,6 +27,16 @@
   </a>
 </p>
 
+<div align="center">
+  <!-- LinkedIn Icon with target="_blank" -->
+  <a href="https://www.linkedin.com/in/manan-j-shah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=MananCoder29&style=for-the-badge&color=blue" alt=""/>
+</div>
+
 ## About Me
 
 I'm an Information Technology graduate student at the University of Stuttgart, specializing in Artificial Intelligence. With professional experience at PwC and current roles in cloud engineering and research, I combine technical expertise with a passion for solving complex problems through innovative solutions.
