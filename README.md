@@ -5,25 +5,45 @@
 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=141619&center=true&vCenter=true&width=500&lines=I'm+Manan+Jignesh+Shah" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=I'm+Manan+Jignesh+Shah">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=I'm+Manan+Jignesh+Shah">
+      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=I'm+Manan+Jignesh+Shah">
+    </picture>
   </a>
 </h1>
 
 <p align="center" style="font-weight:bold">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=250&lines=👨‍💻+Software+Engineer" alt="Software Engineer" /> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=ffffff&center=true&vCenter=true&repeat=true&width=250&lines=👨‍💻+Software+Engineer">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=000000&center=true&vCenter=true&repeat=true&width=250&lines=👨‍💻+Software+Engineer">
+      <img alt="Software Engineer" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=000000&center=true&vCenter=true&repeat=true&width=250&lines=👨‍💻+Software+Engineer">
+    </picture>
   </a>
 
   <a href="https://git.io/typing-svg" style="text-decoration: none; font-weight: bold;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=250&lines=🤖+AI+%26+Robot+Enthusiast" alt="AI & Robot Enthusiast" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=ffffff&center=true&vCenter=true&repeat=true&width=250&lines=🤖+AI+%26+Robot+Enthusiast">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=000000&center=true&vCenter=true&repeat=true&width=250&lines=🤖+AI+%26+Robot+Enthusiast">
+      <img alt="AI & Robot Enthusiast" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=000000&center=true&vCenter=true&repeat=true&width=250&lines=🤖+AI+%26+Robot+Enthusiast">
+    </picture>
   </a>
   
   <a style="text-decoration: none; font-weight: bold;" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=200&lines=☁️+Cloud+Architect" alt="Cloud Architect" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=ffffff&center=true&vCenter=true&repeat=true&width=200&lines=☁️+Cloud+Architect">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=000000&center=true&vCenter=true&repeat=true&width=200&lines=☁️+Cloud+Architect">
+      <img alt="Cloud Architect" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=000000&center=true&vCenter=true&repeat=true&width=200&lines=☁️+Cloud+Architect">
+    </picture>
   </a>
   
   <a style="text-decoration: none; font-weight: bold;" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=2C2E3A&center=true&vCenter=true&repeat=true&width=200&lines=📊+Data+Scientist" alt="Data Scientist" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=ffffff&center=true&vCenter=true&repeat=true&width=200&lines=📊+Data+Scientist">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=000000&center=true&vCenter=true&repeat=true&width=200&lines=📊+Data+Scientist">
+      <img alt="Data Scientist" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=000000&center=true&vCenter=true&repeat=true&width=200&lines=📊+Data+Scientist">
+    </picture>
   </a>
 </p>
 
