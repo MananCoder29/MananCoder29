@@ -48,6 +48,9 @@
 </p>
 
 <div align="center">
+   <a href="https://huggingface.co/mananshah296" target="_blank">
+     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face Logo" width="30" />
+  </a>
   <!-- LinkedIn Icon with target="_blank" -->
   <a href="https://www.linkedin.com/in/manan-j-shah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -127,6 +130,8 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 - PwC Real Time Recognition Award
 
 ## 📊 Featured Projects
+### Emotion Driven Music Generation
+Worked on developing emotion-aware music generation systems using diffusion models to push the boundaries of AI-generated music. 
 
 ### Learner Model in Intelligent Tutoring Systems
 Developed a recommendation module based on M-Elo Model for personalized learning paths.
