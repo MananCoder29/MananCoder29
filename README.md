@@ -67,13 +67,14 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ## 🔭 Current Focus
 
 - Master's in Information Technology with focus on AI at University of Stuttgart
-- Working Student in Cloud Engineering & Data Science at scitis.io GmbH
+- Intern in Cloud Engineering & Data Science at scitis.io GmbH
+- Working on Neura's Robotics Challenge and developing an AI Pharmacist
 - Working on my startup 'HearUs' - an innovative sign language translation application bridging communication gaps between hearing-impaired and hearing communities in education
 
 ## 💼 Experience
 
 - **scitis.io GmbH** - Cloud Engineering & Data Science
-- **Perceptual User Interfaces Department** - Student Research Assistant
+- **Collaborative Artificial Intelligence (cai) Department** - Student Research Assistant
 - **PricewaterhouseCoopers (PwC)** - Associate Software Engineer
 
 ## 🛠️ Technical Skills
@@ -124,6 +125,8 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ## 🏅 Achievements
 
 - LinkedIn Top Community Voice for <B>Data Science, Cloud Computing, AI, ML, and more</B>
+- 2nd Place in <B>Hackxplore ZEISS Fruit Freshness Challenge</B>
+- Winner of <B>QKD Challenge 2k25</B>
 - <B>Hackathon Winner</B>: "Automation for Good" - Festo
 - <B>SoftDCar Hackathon 2.0 Winner</B>
 - PwC Innovation of Month: Client Experience App
