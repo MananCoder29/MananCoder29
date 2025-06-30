@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**MananCoder29/MananCoder29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <picture>
@@ -73,7 +70,7 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 
 ## 💼 Experience
 
-- **scitis.io GmbH** - Cloud Engineering & Data Science
+- **scitis.io GmbH** - Cloud Engineering, Data Science & AI/ML
 - **Collaborative Artificial Intelligence (cai) Department** - Student Research Assistant
 - **PricewaterhouseCoopers (PwC)** - Associate Software Engineer
 
@@ -125,10 +122,11 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ## 🏅 Achievements
 
 - LinkedIn Top Community Voice for <B>Data Science, Cloud Computing, AI, ML, and more</B>
-- 2nd Place in <B>Hackxplore ZEISS Fruit Freshness Challenge</B>
-- Winner of <B>QKD Challenge 2k25</B>
-- <B>Hackathon Winner</B>: "Automation for Good" - Festo
-- <B>SoftDCar Hackathon 2.0 Winner</B>
+- 🥈 2nd Place – Smart City Hackathon Infosys x K67
+- 🥈 2nd Place in <B>Hackxplore ZEISS Fruit Freshness Challenge</B>
+- 🏆 Winner of <B>QKD Challenge 2k25</B>
+- 🏆 <B>Hackathon Winner</B>: "Automation for Good" - Festo
+- 🏆 <B>SoftDCar Hackathon 2.0 Winner</B>
 - PwC Innovation of Month: Client Experience App
 - PwC Real Time Recognition Award
 
