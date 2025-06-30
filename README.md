@@ -122,11 +122,11 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ## 🏅 Achievements
 
 - LinkedIn Top Community Voice for <B>Data Science, Cloud Computing, AI, ML, and more</B>
-- 🥈 2nd Place – Smart City Hackathon Infosys x K67
-- 🥈 2nd Place in <B>Hackxplore ZEISS Fruit Freshness Challenge</B>
-- 🏆 Winner of <B>QKD Challenge 2k25</B>
-- 🏆 <B>Hackathon Winner</B>: "Automation for Good" - Festo
-- 🏆 <B>SoftDCar Hackathon 2.0 Winner</B>
+- 🥈 2nd Place – Smart City Hackathon Infosys x K67 (2025)
+- 🥈 2nd Place in <B>Hackxplore ZEISS Fruit Freshness Challenge</B> (2025)
+- 🏆 Winner of <B>QKD Challenge 2k25</B> (2025)
+- 🏆 <B>Hackathon Winner</B>: "Automation for Good" - Festo (2024)
+- 🏆 <B>SoftDCar Hackathon 2.0 Winner</B> (2023)
 - PwC Innovation of Month: Client Experience App
 - PwC Real Time Recognition Award
 
