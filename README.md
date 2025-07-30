@@ -131,6 +131,15 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 - PwC Real Time Recognition Award
 
 ## 📊 Featured Projects
+### Career Compass AI
+A full-stack AI agent that unifies job search, resume analysis, and tailored cover letter generation using LLMs, LangChain, and SerpAPI.
+
+### Stutti – RAG Chatbot for City Services
+A multilingual chatbot that answers queries about Anmeldung, immigration, and healthcare by retrieving dynamic content from official sources via vector-based RAG.
+
+### IBM WatsonX News Comment Analyzer
+An NLP application using IBM WatsonX to summarize, cluster, and analyze sentiment in NZZ article comments with a chatbot-enabled dashboard.
+
 ### Emotion Driven Music Generation
 Worked on developing emotion-aware music generation systems using diffusion models to push the boundaries of AI-generated music. 
 
