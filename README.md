@@ -64,9 +64,9 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ## 🔭 Current Focus
 
 - Master's in Information Technology with focus on AI at University of Stuttgart
-- Intern in Cloud Engineering & Data Science at scitis.io GmbH
-- Working on my startup 'HearUs' - an innovative sign language translation application bridging communication gaps between hearing-impaired and hearing communities in education
-
+- Werkstudent in Cloud Engineering & Data Science at scitis.io GmbH
+- Exploring Voice Agents and Multi-Agentic Workflows
+  
 ## 💼 Experience
 
 - **Scitis.io GmbH** - Cloud Engineering, Data Science & AI/ML
@@ -163,7 +163,7 @@ Data cleansing, feature engineering, and visualization using Python libraries.
 
 - **Email**: immananshah@gmail.com
 - **LinkedIn**: [manan-j-shah](https://www.linkedin.com/in/manan-j-shah/)
-- **Location**: Stuttgart, Germany
+- **Location**: Stuttgart, Germany 🇩🇪
 
 ---
 
