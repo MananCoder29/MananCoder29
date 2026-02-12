@@ -45,6 +45,7 @@
 </p>
 
 <div align="center">
+  <!-- Huggingface Icon with target="_blank" -->
    <a href="https://huggingface.co/mananshah296" target="_blank">
      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face Logo" width="30" />
   </a>
@@ -52,6 +53,10 @@
   <a href="https://www.linkedin.com/in/manan-j-shah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  <!-- Youtube Icon with target="_blank" -->
+  <a href="https://www.youtube.com/@MananShah-2998" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
   
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=MananCoder29&style=for-the-badge&color=blue" alt=""/>
@@ -64,12 +69,12 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ## 🔭 Current Focus
 
 - Master's in Information Technology with focus on AI at University of Stuttgart
-- Werkstudent in Cloud Engineering & Data Science at scitis.io GmbH
+- Masterarbeit in Multi-Agentic Orchestration & Risk Evaluation
 - Exploring Voice Agents and Multi-Agentic Workflows
   
 ## 💼 Experience
 
-- **Scitis.io GmbH** - Cloud Engineering, Data Science & AI/ML
+- **Scitis.io GmbH** - Cloud Engineering, Data Science & AI/ML (Werkstudent and Praktikant)
 - **Neura Robotics Challenge** - Led a team of 6 to develop an AI Pharmacist aimed at revolutionizing the pharmaceutical industry in Germany.
 - **Collaborative Artificial Intelligence (cai) Department** - Student Research Assistant
 - **PricewaterhouseCoopers (PwC)** - Associate Software Engineer
@@ -123,6 +128,8 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ## 🏅 Achievements
 
 - LinkedIn Top Community Voice for <B>Data Science, Cloud Computing, AI, ML, and more</B>
+- 🏆 Most Elegant MCP Award @ MCP Hackathon (2026)
+- 🥉 2nd Runners 2nd Runners Up - Scan, Find and Win Hackathon (2025)
 - 🥈 2nd Place – Smart City Hackathon Infosys x K67 (2025)
 - 🥈 2nd Place in <B>Hackxplore ZEISS Fruit Freshness Challenge</B> (2025)
 - 🏆 Winner of <B>QKD Challenge 2k25</B> (2025)
@@ -132,6 +139,12 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 - PwC Real Time Recognition Award
 
 ## 📊 Featured Projects
+### Smackers - AI Voice Assistant Platform
+A comprehensive AI-powered voice assistant platform featuring dual interaction modes: Voice Mode (speech-to-speech) and Visual Mode (speech-to-text). Built with a modern tech stack including Next.js frontend, Python backend, custom MCP server integration, and FHIR-compliant healthcare data management.
+
+### HIV Assistance Care Chatbot Demo
+24/7 multilingual RAG-based voice agent with an avatar provides non-judgmental, accurate support and can be seamlessly expanded to other regions and health conditions - designed to feel like a trusted personal companion.
+
 ### Career Compass AI
 A full-stack AI agent that unifies job search, resume analysis, and tailored cover letter generation using LLMs, LangChain, and SerpAPI.
 
@@ -158,6 +171,11 @@ Built a modular dashboard for building statistics with energy savings calculatio
 
 ### COVID-19 Data Analysis
 Data cleansing, feature engineering, and visualization using Python libraries.
+
+## 📊 GitHub stats
+![Manan's GitHub stats](https://github-readme-statistics-dusky.vercel.app/api?username=manancoder29&show_icons=true&count_private=True)
+
+![Top Langs](https://github-readme-statistics-dusky.vercel.app/api/top-langs/?username=manancoder29&hide=jupyter%20notebook)
 
 ## 📫 How to reach me
 
