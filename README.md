@@ -68,16 +68,16 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 
 ## 🔭 Current Focus
 
-- Master's in Information Technology with focus on AI at University of Stuttgart
-- Masterarbeit in Multi-Agentic Orchestration & Risk Evaluation
+- Master's in Information Technology with focus on AI at University of Stuttgart (2023 - 2026)
+- Masterarbeit in Multi-Agentic Orchestration & Risk Evaluation at SOTEC (Feb - Aug, 2026)
 - Exploring Voice Agents and Multi-Agentic Workflows
   
 ## 💼 Experience
 
-- **Scitis.io GmbH** - Cloud Engineering, Data Science & AI/ML (Werkstudent and Praktikant)
-- **Neura Robotics Challenge** - Led a team of 6 to develop an AI Pharmacist aimed at revolutionizing the pharmaceutical industry in Germany.
-- **Collaborative Artificial Intelligence (cai) Department** - Student Research Assistant
-- **PricewaterhouseCoopers (PwC)** - Associate Software Engineer
+- **Scitis.io GmbH** - Cloud Engineering, Data Science & AI/ML (Werkstudent and Praktikant) (May 2024 - Jan 2026)
+- **Neura Robotics Challenge** - Led a team of 6 to develop an AI Pharmacist aimed at revolutionizing the pharmaceutical industry in Germany. (March 2025 - July 2025)
+- **Collaborative Artificial Intelligence (cai) Department** - Student Research Assistant (May 2024 - Sept 2024)
+- **PricewaterhouseCoopers (PwC)** - Associate Software Engineer (Jan 2021 - July 2023)
 
 ## 🛠️ Technical Skills
 
@@ -139,6 +139,9 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 - PwC Real Time Recognition Award
 
 ## 📊 Featured Projects
+### NeuroSimha
+Developed an EEG signal processing pipeline to analyze how brain reward responses vary with task probability, integrating ERP, time-frequency, and machine learning methods. The results partially replicate prior findings while highlighting key challenges in reproducibility of EEG-based analyses.
+
 ### Smackers - AI Voice Assistant Platform
 A comprehensive AI-powered voice assistant platform featuring dual interaction modes: Voice Mode (speech-to-speech) and Visual Mode (speech-to-text). Built with a modern tech stack including Next.js frontend, Python backend, custom MCP server integration, and FHIR-compliant healthcare data management.
 
@@ -181,6 +184,7 @@ Data cleansing, feature engineering, and visualization using Python libraries.
 
 - **Email**: immananshah@gmail.com
 - **LinkedIn**: [manan-j-shah](https://www.linkedin.com/in/manan-j-shah/)
+- **Calendly**: [schedule meet](https://calendly.com/immananshah/30min/)
 - **Location**: Stuttgart, Germany 🇩🇪
 
 ---
