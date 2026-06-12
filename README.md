@@ -70,7 +70,7 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 
 - Master's in Information Technology with focus on AI at University of Stuttgart (2023 - 2026)
 - Masterarbeit in Multi-Agentic Orchestration & Risk Evaluation at SOTEC (Feb - Aug, 2026)
-- Conceptualizing a digital supply chain optimization solution for salt logistics with SWS AG through the Campus Founders CCC-7 (April - July, 2026)
+- Conceptualizing a digital supply chain optimization solution for salt logistics with SWS AG through the Campus Founders CCC-7 using design thinking approaches (April - July, 2026)
 - Exploring Voice Agents and Multi-Agentic Workflows
   
 ## 💼 Experience
