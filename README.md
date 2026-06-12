@@ -70,6 +70,7 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 
 - Master's in Information Technology with focus on AI at University of Stuttgart (2023 - 2026)
 - Masterarbeit in Multi-Agentic Orchestration & Risk Evaluation at SOTEC (Feb - Aug, 2026)
+- Conceptualizing a digital supply chain optimization solution for salt logistics with SWS AG through the Campus Founders CCC-7 (April - July, 2026)
 - Exploring Voice Agents and Multi-Agentic Workflows
   
 ## 💼 Experience
@@ -128,6 +129,7 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 ## 🏅 Achievements
 
 - LinkedIn Top Community Voice for <B>Data Science, Cloud Computing, AI, ML, and more</B>
+- 🏆 Pickz.ai challenge winner & Campus Founder AI hackathon Finalist - Top 7 (2026) 
 - 🏆 Most Elegant MCP Award @ MCP Hackathon (2026)
 - 🥉 2nd Runners 2nd Runners Up - Scan, Find and Win Hackathon (2025)
 - 🥈 2nd Place – Smart City Hackathon Infosys x K67 (2025)
@@ -139,6 +141,10 @@ I'm an Information Technology graduate student at the University of Stuttgart, s
 - PwC Real Time Recognition Award
 
 ## 📊 Featured Projects
+
+### SRE for eye-wear
+Smart Recommendation Engine (SRE) is an intelligent product discovery platform that learns user preferences in real time to deliver highly personalized shopping experiences. It seamlessly combines collaborative filtering, deep structural graph analysis, and AI-driven aesthetic matching to surface the perfect product for every user, even from a cold start.
+
 ### NeuroSimha
 Developed an EEG signal processing pipeline to analyze how brain reward responses vary with task probability, integrating ERP, time-frequency, and machine learning methods. The results partially replicate prior findings while highlighting key challenges in reproducibility of EEG-based analyses.
 
